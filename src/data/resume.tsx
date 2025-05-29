@@ -116,8 +116,8 @@ export const DATA = {
       href: "https://www.bloomtech.com",
       degree: "Computer Programming",
       logoUrl: "/bloomtech.jpg",
-      start: "2027",
-      end: "2027",
+      start: "2017",
+      end: "2017",
     },
     {
       school: "West Georgia Technical College",
