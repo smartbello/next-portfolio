@@ -55,7 +55,7 @@ export default async function Blog({
 }: {
   params: Promise<{ slug: string }>;
 }) {
-  let post = await getPost((await params).slug);
+  const post = await getPost((await params).slug);
 
   if (!post) {
     notFound();

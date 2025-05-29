@@ -177,7 +177,6 @@ export const DATA = {
         "Typescript",
         "TailwindCSS",
         "Shadcn UI",
-        "Node.js",
         "PostgreSQL",
         "Prisma",
         "Apollo GraphQL",
