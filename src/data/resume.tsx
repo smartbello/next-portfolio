@@ -112,6 +112,14 @@ export const DATA = {
   ],
   education: [
     {
+      school: "University of West Georgia",
+      href: "https://www.westga.edu",
+      degree: "Bachelor's Degree of Computer Science",
+      logoUrl: "/uwg.jpg",
+      start: "2017",
+      end: "2019",
+    },
+    {
       school: "Bloom Tech",
       href: "https://www.bloomtech.com",
       degree: "Computer Programming",
@@ -123,7 +131,7 @@ export const DATA = {
       school: "West Georgia Technical College",
       href: "https://www.westgatech.edu",
       degree: "Associate Degree of Computer Science",
-      logoUrl: "/westgeorgia.jpg",
+      logoUrl: "/wgtc.jpg",
       start: "2013",
       end: "2015",
     },
